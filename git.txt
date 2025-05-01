@@ -5,7 +5,7 @@ git version
 *to connect with github-
 
 git config --global user.name username of github
-git config --global user.email email address of github
+git config --global user.email email address of github account
 
 *connect blank folder to github repository
 
